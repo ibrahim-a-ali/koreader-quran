@@ -20,11 +20,11 @@ The PDF plugin adapts this prepared PDF to the original project's dictionary key
 ## Features
 
 - **Preserved mushaf layout:** Retains the existing vector artwork and selectable Arabic text.
-- Features similar to those in the original [Quran Ebook project](https://github.com/zeeyado/quran-ebook) including:
-      - **Ayah lookup:** Long-press an ayah number to open its tafsir.
-      - **Surah overviews:** Long-press the header region for any surah.
-      - **Word dictionaries.**
-      - **Juz and surah in the status bar.**
+Features similar to those in the original [Quran Ebook project](https://github.com/zeeyado/quran-ebook) including:
+- **Ayah lookup:** Long-press an ayah number to open its tafsir.
+- **Surah overviews:** Long-press the header region for any surah.
+- **Word dictionaries.**
+- **Juz and surah in the status bar.**
 
 Interactive features require KOReader and this plugin. Other PDF viewers can display the document, but they do not run KOReader plugins.
 
