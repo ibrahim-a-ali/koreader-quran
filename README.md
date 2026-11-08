@@ -14,10 +14,10 @@ keys and lookup features.
 
 <p align="center">
   <a href="screenshots/koreader-page-604.png">
-    <img src="screenshots/koreader-page-604.png" alt="KOReader Quran reading view on page 604" width="47%">
+    <img src="screenshots/koreader-page-604.png" alt="KOReader Quran reading view on page 604" width="33%">
   </a>
   <a href="screenshots/koreader-page-151.png">
-    <img src="screenshots/koreader-page-151.png" alt="KOReader Quran reading view on page 151" width="47%">
+    <img src="screenshots/koreader-page-151.png" alt="KOReader Quran reading view on page 151" width="33%">
   </a>
 </p>
 
