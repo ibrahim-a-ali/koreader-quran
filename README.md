@@ -12,18 +12,6 @@ and to add the information needed for ayah lookups.
 The PDF plugin adapts this prepared PDF to the original project's dictionary
 keys and lookup features.
 
-<p align="center">
-  <a href="screenshots/koreader-page-151.png">
-    <img src="screenshots/koreader-page-151.png"
-         alt="KOReader Quran view on page 151"
-         width="47%">
-  </a>
-  <a href="screenshots/koreader-page-604.png">
-    <img src="screenshots/koreader-page-604.png"
-         alt="KOReader Quran view on page 604"
-         width="47%">
-  </a>
-</p>
 
 *Click either screenshot to view it at full size.*
 
