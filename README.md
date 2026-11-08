@@ -19,14 +19,14 @@ The two downloads are prepared in a draft release and await publication.
 | File | Description |
 | --- | --- |
 | `quran_pdf_helper_v0.1.0.zip` | PDF plugin for KOReader. |
-| `Quran_Tafsir.pdf` | Full prepared Quran PDF. |
+| `Quran_Original_Layout_KOReader_Interactive.pdf` | Original vector layout with interactive lookups in KOReader. |
 
 ## Setup
 
 1. Install **KOReader** on your device.
 2. Extract the plugin ZIP into KOReader's **plugins** folder, so the folder is
    `plugins/quran_pdf.koplugin/`.
-3. Copy `Quran_Tafsir.pdf` to your device and open it in KOReader.
+3. Copy `Quran_Original_Layout_KOReader_Interactive.pdf` to your device and open it in KOReader.
 4. Visit the **[original Quran Ebook project](https://github.com/zeeyado/quran-ebook)**
    to download dictionaries, tafseers, and related resources. Follow its
    dictionary installation instructions.
