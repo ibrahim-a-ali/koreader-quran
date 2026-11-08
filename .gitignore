@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.DS_Store
-Thumbs.db
-/release/*.zip
-/release/*.pdf
-/Quran_Tafsir.pdf

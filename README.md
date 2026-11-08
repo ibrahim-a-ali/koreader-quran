@@ -46,5 +46,4 @@ version.
 
 The plugin is adapted from **Quran Helper v1.10** by
 [zeeyado/quran-ebook](https://github.com/zeeyado/quran-ebook). Original credits
-and GPL-3.0 licence notices are retained. See [credits](CREDITS.md) and
-[licence](LICENSE).
+and GPL-3.0 licence notices are retained. See the [licence](LICENSE).
