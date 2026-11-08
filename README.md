@@ -18,7 +18,7 @@ The two downloads are prepared in a draft release and await publication.
 
 | File | Description |
 | --- | --- |
-| `quran_pdf_helper_v0.1.0.zip` | PDF plugin for KOReader. |
+| `quran_pdf_helper_v0.1.3.zip` | PDF plugin for KOReader. |
 | `Quran_Original_Layout_KOReader_Interactive.pdf` | Original vector layout with interactive lookups in KOReader. |
 
 ## Setup
@@ -31,12 +31,15 @@ The two downloads are prepared in a draft release and await publication.
    to download dictionaries, tafseers, and related resources. Follow its
    dictionary installation instructions.
 
+The plugin includes the cover image. After upgrading, restart KOReader, open
+the Quran once, then return to the library to refresh its thumbnail.
+
 Dictionaries are not bundled here. Long-press an ayah number or word to use
 the corresponding lookup once the relevant dictionaries are installed.
 
 ## Testing
 
-The PDF and plugin have been tested in KOReader at different, randomly selected
+The PDF and lookup features have been tested in KOReader at different, randomly selected
 locations. **Not every word or every ayah has been tested, and the functionality
 has not been completely verified.** This remains an experimental release.
 Please report any issues with the page, surah/ayah, selected word, and KOReader
