@@ -23,6 +23,20 @@ keys and lookup features.
 
 *Click either screenshot to view it at full size.*
 
+## Features
+
+| Feature | Prepared PDF support |
+| --- | --- |
+| Ayah lookup | Tafsir/grammar keys for all 6,236 ayahs. |
+| Surah overviews | Long-press header regions for all 114 surahs. |
+| Word dictionaries | Canonical QPC headwords and verse-occurrence filtering. |
+| Popup navigation | Next/previous entries, including across surah boundaries. |
+| Juz and surah status | All 30 juz, boundary indicators, and display preferences. |
+| Mushaf layout | Existing vector artwork and selectable Arabic text retained. |
+
+Interactive features require KOReader and this plugin. Other PDF viewers can
+display the document, but they do not run KOReader plugins.
+
 ## Downloads
 
 The two files are attached to the **v0.1.3 draft release**. The download links below become available when the release is published.
