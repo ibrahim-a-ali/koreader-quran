@@ -1,4 +1,4 @@
-# Quran PDF Helper for KOreader
+# KOReader Quran: Original Mushaf Layout Interactive PDF (v0.1.3)
 
 This project aims to preserve the Quran's original page layout while enabling the **tafseer and word
 lookup features** of the original
