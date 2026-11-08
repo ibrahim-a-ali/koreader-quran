@@ -15,10 +15,18 @@ in [CHANGELOG.md](CHANGELOG.md). Retain GPL-3.0 notices and COPYING.
 
 ## Reading software and content sources
 
+The source vector-format Quran PDF was obtained from the **King Fahd Glorious
+Quran Printing Complex**. Its original page layout and vector artwork have
+been preserved. AI-assisted processing was used to enable Arabic word
+selection and copying and to add the information required for ayah lookups.
+
 [KOReader](https://github.com/koreader/koreader) provides the reader and the
 interfaces used by the plugin. The Quran Ebook project documents its text,
 dictionary and font sources, including Quran.com and King Fahd Complex
 resources. Consult those source notices when redistributing assets.
+
+Dictionaries are not bundled with the release. Users should obtain them from
+the [original Quran Ebook project](https://github.com/zeeyado/quran-ebook).
 
 This project does not claim authorship of Quran text, translations, tafsir,
 fonts, dictionaries, or the original Quran Helper plugin. It is an independent

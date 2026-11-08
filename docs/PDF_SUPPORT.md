@@ -7,10 +7,12 @@ experimental community version, not an official upstream release.
 
 ## Install and migrate
 
-Extract Quran_PDF_Helper.zip into the KOReader root. It installs
-`plugins/quran_pdf.koplugin/` and the original project's English surah-overview
-and QPC v1.4 dictionaries in `data/dict/`. Keep the prepared Quran_Tafsir.pdf;
-no PDF change is needed for this version. Restart KOReader and use
+Extract `quran_pdf_helper_v0.1.0.zip` inside KOReader's **plugins** directory,
+so it installs at `plugins/quran_pdf.koplugin/`. Copy `Quran_Tafsir.pdf` to the
+device. These are the two project downloads; dictionaries are not bundled.
+Visit [zeeyado/quran-ebook](https://github.com/zeeyado/quran-ebook) to download
+the required dictionaries and follow its installation instructions.
+Restart KOReader and use
 **Tools > Quran PDF Helper** for PDF preferences.
 
 The official Quran Helper v1.10 can remain installed in
@@ -18,7 +20,7 @@ The official Quran Helper v1.10 can remain installed in
 package replaced that directory, restore the official plugin there first.
 Disable/remove the older separate `quranpdf.koplugin` trial companion.
 Settings are independent: `quran_pdf.lua` for this PDF plugin and `quran.lua`
-for the original. The installer does not overwrite the original plugin folder
+for the original. The plugin archive does not overwrite the original plugin folder
 or copy its settings. Other upstream dictionaries work without conversion.
 
 Enable **Status bar > Status bar items > External content**, then enable
@@ -120,5 +122,9 @@ legacy popup APIs, both initialization orders and both readiness orders,
 separate settings and menus, and PDF-to-EPUB-to-PDF switching. The earlier
 PDF build's artwork/text checks are retained in [previous_pdf_build_verification.json](verification/previous_pdf_build_verification.json);
 the current plugin-only change does not alter the PDF. Verification reports
-are headless results, not physical-device UI tests. Test on the target device
-before advertising a stable release.
+are headless results, not an exhaustive check of reading or selection accuracy.
+
+The PDF and plugin have also been tested in KOReader at different randomly
+selected locations. Not every word or every ayah has been tested, and the
+functionality has not been completely verified. Keep this distinction when
+reporting test results or assessing the experimental release.

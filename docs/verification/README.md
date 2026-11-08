@@ -4,6 +4,11 @@ The recorded reports were produced for Quran PDF Helper 0.1.0 using its actual
 Lua handlers, KOReader interface doubles, the prepared full PDF, and the
 upstream v1.10 plugin/dictionaries. They are not physical-device UI tests.
 
+Separately, the PDF and plugin have been tested in KOReader at different
+randomly selected locations. Not every word or every ayah has been tested,
+and the functionality has not been completely verified. The recorded automated
+reports must not be read as a claim of exhaustive manual verification.
+
 - [Current full-PDF report](verification.json): 604 pages, 6,236 ayah markers,
   114 surah headers, word-region and native MuPDF selection lookups, juz/status
   formats, popup navigation, occurrence filtering and coexistence.

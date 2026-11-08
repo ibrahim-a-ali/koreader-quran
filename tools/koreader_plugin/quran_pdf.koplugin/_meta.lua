@@ -9,5 +9,6 @@ and occurrence-specific word lookup. Uses the original project's dictionaries.
 
 Based on Quran Helper v1.10 by zeeyado/quran-ebook, GPL-3.0-only.
 Independent PDF-only plugin with its own settings; the original Quran Helper
-continues to handle EPUBs. Experimental: target-device UI testing is pending.]]),
+continues to handle EPUBs. Tested at random locations in KOReader; not every
+word or ayah has been tested. Experimental; verification is incomplete.]]),
 }
