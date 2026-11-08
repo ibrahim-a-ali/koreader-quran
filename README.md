@@ -14,10 +14,12 @@ keys and lookup features.
 
 ## Downloads
 
+The two downloads are prepared in a draft release and await publication.
+
 | File | Description |
 | --- | --- |
-| [quran_pdf_helper_v0.1.0.zip](https://github.com/ibrahim-a-ali/quran-pdf-helper/releases/download/v0.1.0/quran_pdf_helper_v0.1.0.zip) | PDF plugin for KOReader. |
-| [Quran_Tafsir.pdf](https://github.com/ibrahim-a-ali/quran-pdf-helper/releases/download/v0.1.0/Quran_Tafsir.pdf) | Full prepared Quran PDF. |
+| `quran_pdf_helper_v0.1.0.zip` | PDF plugin for KOReader. |
+| `Quran_Tafsir.pdf` | Full prepared Quran PDF. |
 
 ## Setup
 
