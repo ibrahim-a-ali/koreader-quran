@@ -25,12 +25,12 @@ keys and lookup features.
 
 ## Downloads
 
-The two downloads are prepared in a draft release and await publication.
+The two files are attached to the **v0.1.3 draft release**. The download links below become available when the release is published.
 
 | File | Description |
 | --- | --- |
-| `quran_pdf_helper_v0.1.3.zip` | PDF plugin for KOReader. |
-| `Quran_Original_Layout_KOReader_Interactive.pdf` | Original vector layout with interactive lookups in KOReader. |
+| [quran_pdf_helper_v0.1.3.zip](https://github.com/ibrahim-a-ali/quran-pdf-helper/releases/download/v0.1.3/quran_pdf_helper_v0.1.3.zip) | PDF plugin for KOReader. |
+| [Quran_Original_Layout_KOReader_Interactive.pdf](https://github.com/ibrahim-a-ali/quran-pdf-helper/releases/download/v0.1.3/Quran_Original_Layout_KOReader_Interactive.pdf) | Original vector layout with interactive lookups in KOReader. |
 
 ## Setup
 
