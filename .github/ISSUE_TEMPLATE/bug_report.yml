@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a problem with Quran PDF Helper.
+title: "[Bug]: "
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Device and KOReader version
+    validations:
+      required: true
+  - type: input
+    id: plugin
+    attributes:
+      label: Quran PDF Helper version
+      description: Also state whether the original Quran Helper is enabled.
+    validations:
+      required: true
+  - type: input
+    id: document
+    attributes:
+      label: PDF, page, surah and ayah
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or relevant log excerpts
+      description: Remove personal data before posting.

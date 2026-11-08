@@ -1,0 +1,52 @@
+{
+  "combinations": [
+    {
+      "popup_api": "modern",
+      "init_order": "upstream_first",
+      "ready_order": "same"
+    },
+    {
+      "popup_api": "modern",
+      "init_order": "upstream_first",
+      "ready_order": "reverse"
+    },
+    {
+      "popup_api": "modern",
+      "init_order": "pdf_first",
+      "ready_order": "same"
+    },
+    {
+      "popup_api": "modern",
+      "init_order": "pdf_first",
+      "ready_order": "reverse"
+    },
+    {
+      "popup_api": "legacy",
+      "init_order": "upstream_first",
+      "ready_order": "same"
+    },
+    {
+      "popup_api": "legacy",
+      "init_order": "upstream_first",
+      "ready_order": "reverse"
+    },
+    {
+      "popup_api": "legacy",
+      "init_order": "pdf_first",
+      "ready_order": "same"
+    },
+    {
+      "popup_api": "legacy",
+      "init_order": "pdf_first",
+      "ready_order": "reverse"
+    }
+  ],
+  "mapped_ayahs_per_combination": 6236,
+  "surah_headers_per_combination": 114,
+  "juz_pages_per_combination": 604,
+  "separate_settings_and_menus": true,
+  "pdf_epub_pdf_switch": true,
+  "original_epub_navigation": true,
+  "unrelated_pdf_passthrough": true,
+  "device_test": "Not performed; headless Lua handler tests only"
+}

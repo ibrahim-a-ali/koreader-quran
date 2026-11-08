@@ -1,0 +1,35 @@
+Quran PDF Helper - 0.1.0 (experimental)
+
+1. Close KOReader completely.
+2. Extract Quran_PDF_Helper.zip into the KOReader folder, merging plugins/ and data/.
+   The plugin installs at plugins/quran_pdf.koplugin/.
+3. Copy the existing prepared Quran_Tafsir.pdf to the reader. The PDF has not changed.
+4. Restart KOReader and confirm Quran PDF Helper in the plugin list.
+5. Enable Status bar > Status bar items > External content, then use
+   Tools > Quran PDF Helper > Status bar > Show juz in status bar.
+
+Long-press an ayah number for tafsir/grammar lookup, a decorative surah header
+for its overview, or an Arabic word for dictionary lookup. Use the popup's
+existing next/previous buttons or volume keys for ayah/surah navigation.
+
+The official Quran Helper v1.10 may remain installed at plugins/quran.koplugin/.
+It handles EPUBs. Quran PDF Helper handles prepared PDFs and stores its own
+settings in settings/quran_pdf.lua; it does not overwrite settings/quran.lua.
+The two plugin menus and popup-hook states are separate.
+
+Migration from the previous packages:
+- Disable/remove the older quranpdf.koplugin trial companion, if present.
+- If you installed the earlier 1.10-pdf1 build in plugins/quran.koplugin/,
+  restore the official upstream plugin there before keeping both enabled.
+  This ZIP does not restore or overwrite that folder.
+- Configure the PDF plugin's preferences separately; existing quran.lua is retained.
+
+The project's original English surah-overview and QPC v1.4 word dictionaries
+are included in their existing data/dict/ locations. Existing tafsir, grammar
+and other language dictionaries remain usable. Obtain further dictionaries
+and documentation from https://github.com/zeeyado/quran-ebook
+
+Derived from Quran Helper v1.10 by zeeyado/quran-ebook. GPL-3.0-only.
+Independent community PDF version; not an official upstream release.
+Automated Lua handler and coexistence checks passed. Physical-device UI testing
+is still required before treating this experimental build as stable.
