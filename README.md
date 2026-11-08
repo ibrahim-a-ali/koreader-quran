@@ -42,13 +42,11 @@ The two files are attached to the **v0.1.3 draft release**. The download links b
    to download dictionaries, tafseers, and related resources. Follow its
    dictionary installation instructions.
 
-Dictionaries are not bundled here. Long-press an ayah number or word to use
-the corresponding lookup once the relevant dictionaries are installed.
+Dictionaries are not bundled here. Long-press an ayah number or word to use the corresponding lookup once the relevant dictionaries are installed.
 
 ## Recommended KOReader settings
 
 For comfortable reading while preserving the original mushaf layout:
-
 - **Fit:** Width.
 - **View mode:** Continuous.
 - **Page gap:** 0~1, for continuous Quran viewing without gaps between pages.
@@ -59,14 +57,9 @@ For comfortable reading while preserving the original mushaf layout:
 
 ## Testing
 
-The PDF and lookup features have been tested in KOReader at different, randomly selected
-locations. **Not every word or every ayah has been tested, and the functionality
-has not been completely verified.** This remains an experimental release.
-Please report any issues with the page, surah/ayah, selected word, and KOReader
-version.
+The PDF and lookup features have been tested in KOReader at different, randomly selected locations. **Not every word or every ayah has been tested, and the functionality
+has not been completely verified.** This remains an experimental release. Please report any issues with the page, surah/ayah, selected word, and KOReader version.
 
 ## Credits
 
-The plugin is adapted from **Quran Helper v1.10** by
-[zeeyado/quran-ebook](https://github.com/zeeyado/quran-ebook). Original credits
-and GPL-3.0 licence notices are retained. See the [licence](LICENSE).
+The plugin is adapted from **quran_koplugin_v1.10** by [zeeyado/quran-ebook](https://github.com/zeeyado/quran-ebook). Original credits and GPL-3.0 licence notices are retained. See the [licence](LICENSE).
