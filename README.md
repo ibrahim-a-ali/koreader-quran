@@ -37,9 +37,6 @@ The two downloads are prepared in a draft release and await publication.
    to download dictionaries, tafseers, and related resources. Follow its
    dictionary installation instructions.
 
-The plugin includes the cover image. After upgrading, restart KOReader, open
-the Quran once, then return to the library to refresh its thumbnail.
-
 Dictionaries are not bundled here. Long-press an ayah number or word to use
 the corresponding lookup once the relevant dictionaries are installed.
 
