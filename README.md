@@ -46,7 +46,7 @@ For comfortable reading while preserving the original mushaf layout:
 
 - **Fit:** Width.
 - **View mode:** Continuous.
-- **Page gap:** 0, for continuous Quran viewing without gaps between pages.
+- **Page gap:** 0~1, for continuous Quran viewing without gaps between pages.
 - **Status bar:** Always visible.
 - Under **Status bar → Status bar items**, enable **Current page** and **External content** to display the **page number, juz and surah name**.
 - Under **Settings → Taps and gestures → Page turns**, enable **Invert page turns and dialogs**.
