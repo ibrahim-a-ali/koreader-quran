@@ -12,6 +12,13 @@ and to add the information needed for ayah lookups.
 The PDF plugin adapts this prepared PDF to the original project's dictionary
 keys and lookup features.
 
+<p align="center">
+  <a href="screenshots/koreader-page-598.png"><img src="screenshots/koreader-page-598.png" alt="KOReader continuous Quran view on page 598, with page number, juz and surah in the status bar" width="47%"></a>
+  <a href="screenshots/koreader-page-603.png"><img src="screenshots/koreader-page-603.png" alt="KOReader continuous Quran view on page 603, with page number, juz and surah in the status bar" width="47%"></a>
+</p>
+
+*Click either screenshot to view it at full size.*
+
 ## Downloads
 
 The two downloads are prepared in a draft release and await publication.
@@ -36,6 +43,18 @@ the Quran once, then return to the library to refresh its thumbnail.
 
 Dictionaries are not bundled here. Long-press an ayah number or word to use
 the corresponding lookup once the relevant dictionaries are installed.
+
+## Recommended KOReader settings
+
+For comfortable reading while preserving the original mushaf layout:
+
+- **Fit:** Width.
+- **View mode:** Continuous.
+- **Page gap:** 0, for continuous Quran viewing without gaps between pages.
+- **Status bar:** Always visible.
+- Under **Status bar → Status bar items**, enable **Current page** and **External content** to display the **page number, juz and surah name**.
+- Under **Settings → Taps and gestures → Page turns**, enable **Invert page turns and dialogs**.
+- **Reflow:** Keep it off.
 
 ## Testing
 
