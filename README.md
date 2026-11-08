@@ -13,7 +13,8 @@ The PDF plugin adapts this prepared PDF to the original project's dictionary
 keys and lookup features.
 
 <p align="center">
-  <a href="screenshots/koreader-page-598.png"><img src="screenshots/koreader-page-598.png" alt="KOReader continuous Quran view on page 598, with page number, juz and surah in the status bar" width="47%"></a>
+  <a href="screenshots/koreader-page-598.png"><img src="screenshots/koreader-page-151.png" alt="KOReader continuous Quran view on page 151, with page number, juz and surah in the status bar" width="47%"></a>
+  <a href="screenshots/koreader-page-598.png"><img src="screenshots/koreader-page-604.png" alt="KOReader continuous Quran view on page 604, with page number, juz and surah in the status bar" width="47%"></a>
 </p>
 
 *Click either screenshot to view it at full size.*
