@@ -25,14 +25,14 @@ keys and lookup features.
 
 ## Features
 
-| Feature | Prepared PDF support |
-| --- | --- |
-| Ayah lookup | Tafsir/grammar keys for all 6,236 ayahs. |
-| Surah overviews | Long-press header regions for all 114 surahs. |
-| Word dictionaries | Canonical QPC headwords and verse-occurrence filtering. |
-| Popup navigation | Next/previous entries, including across surah boundaries. |
-| Juz and surah status | All 30 juz, boundary indicators, and display preferences. |
-| Mushaf layout | Existing vector artwork and selectable Arabic text retained. |
+- **Preserved mushaf layout:** Retains the existing vector artwork and selectable Arabic text.
+
+Features similar to those in the original [Quran Ebook project](https://github.com/zeeyado/quran-ebook) include:
+
+- **Ayah lookup:** Long-press an ayah number to open its tafsir.
+- **Surah overviews:** Long-press the header region for any surah.
+- **Word dictionaries.**
+- **Juz and surah in the status bar.**
 
 Interactive features require KOReader and this plugin. Other PDF viewers can
 display the document, but they do not run KOReader plugins.
