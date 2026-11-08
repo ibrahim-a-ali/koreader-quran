@@ -1,16 +1,10 @@
 # KOReader Quran: Original Mushaf Layout Interactive PDF (v0.1.3)
 
-This project aims to preserve the Quran's original page layout while enabling the **tafseer and word
-lookup features** of the original
-[Quran Ebook project](https://github.com/zeeyado/quran-ebook) in **KOReader**.
+This project aims to preserve the Quran's original page layout while enabling the **tafseer and word lookup features** of the original [Quran Ebook project](https://github.com/zeeyado/quran-ebook) in **KOReader**.
 
-The Quran PDF was obtained from the **King Fahd Glorious Quran Printing
-Complex**. Its original page layout and vector artwork have been preserved.
-AI-assisted processing was used to enable Arabic word selection and copying
-and to add the information needed for ayah lookups.
+The Quran PDF was obtained from the **King Fahd Glorious Quran Printing Complex**. Its original page layout and vector artwork have been preserved. AI-assisted processing was used to enable Arabic word selection and copying and to add the information needed for ayah lookups.
 
-The PDF plugin adapts this prepared PDF to the original project's dictionary
-keys and lookup features.
+The PDF plugin adapts this prepared PDF to the original project's dictionary keys and lookup features.
 
 <p align="center">
   <a href="screenshots/koreader-page-604.png">
@@ -26,16 +20,13 @@ keys and lookup features.
 ## Features
 
 - **Preserved mushaf layout:** Retains the existing vector artwork and selectable Arabic text.
+- Features similar to those in the original [Quran Ebook project](https://github.com/zeeyado/quran-ebook) including:
+      - **Ayah lookup:** Long-press an ayah number to open its tafsir.
+      - **Surah overviews:** Long-press the header region for any surah.
+      - **Word dictionaries.**
+      - **Juz and surah in the status bar.**
 
-Features similar to those in the original [Quran Ebook project](https://github.com/zeeyado/quran-ebook) include:
-
-- **Ayah lookup:** Long-press an ayah number to open its tafsir.
-- **Surah overviews:** Long-press the header region for any surah.
-- **Word dictionaries.**
-- **Juz and surah in the status bar.**
-
-Interactive features require KOReader and this plugin. Other PDF viewers can
-display the document, but they do not run KOReader plugins.
+Interactive features require KOReader and this plugin. Other PDF viewers can display the document, but they do not run KOReader plugins.
 
 ## Downloads
 
@@ -71,8 +62,7 @@ For comfortable reading while preserving the original mushaf layout:
 
 ## Testing
 
-The PDF and lookup features have been tested in KOReader at different, randomly selected locations. **Not every word or every ayah has been tested, and the functionality
-has not been completely verified.** This remains an experimental release. Please report any issues with the page, surah/ayah, selected word, and KOReader version.
+The PDF and lookup features have been tested in KOReader at different, randomly selected locations. **Not every word or every ayah has been tested, and the functionality has not been completely verified.** This remains an experimental release. Please report any issues with the page, surah/ayah, selected word, and KOReader version.
 
 ## Credits
 
