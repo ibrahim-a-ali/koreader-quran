@@ -1,6 +1,6 @@
 # Quran PDF Helper for KOreader
 
-This project aim to preserve the Quran's original page layout while enabling the **tafseer and word
+This project aims to preserve the Quran's original page layout while enabling the **tafseer and word
 lookup features** of the original
 [Quran Ebook project](https://github.com/zeeyado/quran-ebook) in **KOReader**.
 
